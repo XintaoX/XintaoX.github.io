@@ -11,9 +11,9 @@ I am a Ph.D. candidate at the [Department of Statistics at Iowa State University
 
 Experience:
 
-Ph.D. in the Department of Statistics, Iowa State University, 2019 - present.
-Bachelor of Science, Mathematics, University of Science and Technology of China, 2014 - 2019.
-Bachelor of Natural Science, Physics, University of Science and Technology of China, 2014 - 2019.
+-Ph.D. in the Department of Statistics, Iowa State University, 2019 - present.
+-Bachelor of Science, Mathematics, University of Science and Technology of China, 2014 - 2019.
+-Bachelor of Natural Science, Physics, University of Science and Technology of China, 2014 - 2019.
 
 Research interests:
 
