@@ -20,7 +20,7 @@ author_profile: true
 - **Xia, X.**, Zhang, X., Fuller, W. (2024) Estimation for Nearest Neighbor Imputed Survey Data. (Major revision at Journal of Survey Statistics and Methodology).
 
 
-## Working PaperS
+## Working Papers
 
 - Cai, Z., Li, S., **Xia, X**.*, Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). [Submitted to Journal of Machine Learning Research.]
 
