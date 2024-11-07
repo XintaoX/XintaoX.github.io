@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [Department of Statistics at Iowa State University]{https://www.stat.iastate.edu/} advised by Dr. [Zhanrui Cai]{https://zhanruicai.github.io/}. I am very grateful for the opportunity to work with [Yumou Qiu]{https://yumou.org/} and [Li Chunlin]{https://faculty.sites.iastate.edu/chunlin/}, whose mentorship and support have been invaluable to my growth and development as a researcher.
+I am a Ph.D. candidate at the [Department of Statistics at Iowa State University](https://www.stat.iastate.edu/) advised by Dr. [Zhanrui Cai](https://zhanruicai.github.io/). I am very grateful for the opportunity to work under the guidance of [Yumou Qiu](https://yumou.org/) and [Li Chunlin](https://faculty.sites.iastate.edu/chunlin/), whose mentorship and support have been invaluable to my growth and development as a researcher.
 
 Experience:
 
