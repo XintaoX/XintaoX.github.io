@@ -19,4 +19,4 @@ Experience:
 
 Research interests:
 
-High dimensional inference, statistical inference in differential privacy, causal inference, causal discovery
+High dimensional inference, statistical inference in differential privacy, causal inference, causal discovery.
