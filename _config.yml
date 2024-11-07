@@ -22,11 +22,11 @@ repository               : "academicpages/XintaoX.github.io"
 author:
   # Biographic information
   avatar           : "xintao.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Xintao Xia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A man can be destroyed but not defeated."
+  location         : "Ames, Iowa, US"
+  employer         : "Iowa State University"
   uri              : # URL
   email            : "none@example.org" 
 
