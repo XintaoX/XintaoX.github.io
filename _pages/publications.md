@@ -15,10 +15,9 @@ author_profile: true
 
 - **Xia, X.**, Cai, Z. (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
-- **Xia, X.**, Zhang, L., Cai, Z. (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). [Winner of the 2024 IMS Hannan Graduate Student Travel Award. R&R at Journal of the American Statistical Association.]
-
 - **Xia, X.**, Zhang, X., Fuller, W. (2024) [Estimation for Nearest Neighbor Imputed Survey Data](https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smae048/7964745?utm_source=advanceaccess&utm_campaign=jssam&utm_medium=email), Journal of Survey Statistics and Methodology.
 
+- **Xia, X.**, Zhang, L., Cai, Z. (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). [Winner of the 2024 IMS Hannan Graduate Student Travel Award. R&R at Journal of the American Statistical Association.]
 
 ## Working Papers
 
