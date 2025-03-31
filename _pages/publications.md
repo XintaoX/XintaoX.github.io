@@ -27,3 +27,5 @@ author_profile: true
 - **Xia, X**, Qiu, Y. (2024) Multiply Robust Inference of Treatment Effects under High-dimensional Clustered Data. [Submitted to Journal of the American Statistical Association.]
 
 - **Xia, X**, Li, C., Li, C. (2024) Learning a directed acyclic graph with additive heteroscedastic errors.
+
+- **Xia, X.**, Zhang, L., Cai, Z. (2025) Statistically Inference for Differentially Private Stochastic Gradient Descent.
