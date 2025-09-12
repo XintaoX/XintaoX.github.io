@@ -21,14 +21,14 @@ repository               : "XintaoX/XintaoX.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xintao.jpg"
+  avatar           : "xintao_work.jpg"
   name             : "Xintao Xia"
   pronouns         : # example: "she/her"  
   bio              : "A man can be destroyed but not defeated."
-  location         : "Ames, Iowa, US"
-  employer         : "Iowa State University"
+  location         : "Hangzhou, Zhejiang, China"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "xintaox@iastate.edu" 
+  email            : "xintaox@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
