@@ -12,7 +12,7 @@ author_profile: true
 * \* indicates that authors are listed in alphabetical order.
 
 ## Papers
-- **Xia, X.**, Zhang, L., Cai, Z. (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). [Winner of the 2024 IMS Hannan Graduate Student Travel Award. Accepted with minor revisions at Journal of the American Statistical Association.]
+- **Xia, X.**, Zhang, L., Cai, Z. (2024) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://arxiv.org/abs/2401.08150). [Winner of the 2024 IMS Hannan Graduate Student Travel Award. Accepted at Journal of the American Statistical Association.]
 
 - **Xia, X.**, Zhang, X., Fuller, W. (2024) [Estimation for Nearest Neighbor Imputed Survey Data](https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smae048/7964745?utm_source=advanceaccess&utm_campaign=jssam&utm_medium=email), Journal of Survey Statistics and Methodology.
 
