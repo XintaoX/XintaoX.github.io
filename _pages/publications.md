@@ -26,7 +26,7 @@ author_profile: true
 
 - Qiu, Y., Tao, J., **Xia, X**.* (2024) Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates.
 
-- **Xia, X.**, Xia, Z., Zhang, L., Cai, Z. (2025) [A Statistical Framework for Alignment with Biased AI Feedback](https://arxiv.org/abs/2602.08259).
+- **Xia, X.**, Xia, Z., Zhang, L., Cai, Z. (2025) [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
 
 - **Xia, X**, Qiu, Y. (2024) [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312).
 
