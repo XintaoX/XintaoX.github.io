@@ -11,6 +11,10 @@ I am an assistant professor in the [Center for Data Science](http://cds.zju.edu.
 
 Experience:
 
+-Assistant Professor, Center for Data Science, Zhejiang University, 2025 - present.
+
+Education:
+
 -Ph.D. in the Department of Statistics, Iowa State University, 2019 - 2025.
 
 -Bachelor of Science, Mathematics, University of Science and Technology of China, 2014 - 2019.
