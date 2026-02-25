@@ -8,7 +8,7 @@ classes: wide
 
 ## Zhejiang University
 
-  - [Modern Statistical Inference]('/teaching/2026-spring-Modern.md'), Spring 2026
+  - [Modern Statistical Inference]('https://github.com/XintaoX/XintaoX.github.io/blob/master/_teaching/2026-spring-Modern.md'), Spring 2026
 
 ## Iowa State University
 
