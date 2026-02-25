@@ -2,7 +2,7 @@
 title: "Modern Statistical Inference"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2026-spring-Modern/
+permalink: /teaching/2026-spring-Modern
 venue: "Zhejiang University, Center for Data Science"
 date: 2026
 location: "Hangzhou, China"
