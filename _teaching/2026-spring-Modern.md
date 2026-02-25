@@ -15,3 +15,10 @@ This course develops a unified inference toolkit for real-world data where the d
 Lecture 1
 ======
 
+Lecture 2
+======
+
+HW1
+
+Lecture 3
+======
