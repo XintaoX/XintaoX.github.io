@@ -8,7 +8,7 @@ classes: wide
 
 ## Zhejiang University
 
-  - [Modern Statistical Inference](/teaching/2026-spring-Modern/), Spring 2026
+  - [Modern Statistical Inference](/_teaching/2026-spring-Modern/), Spring 2026
 
 ## Iowa State University
 
