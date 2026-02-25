@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 * \* indicates that authors are listed in alphabetical order.
+* † indicates corresponding author.  
+* § indicates student author.
 
 ## Papers
 - **Xia, X.**, Zhang, L., Cai, Z. (2025) [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2555059), Journal of the American Statistical Association. [Winner of the 2024 IMS Hannan Graduate Student Travel Award.]
