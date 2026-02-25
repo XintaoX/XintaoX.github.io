@@ -8,7 +8,7 @@ classes: wide
 
 ## Zhejiang University
 
-  - [Modern Statistical Inference Methods](./_teaching/cv-xintao.pdf), Spring 2026
+  - [Modern Statistical Inference Methods](./_teaching/2026-spring-Modern.md), Spring 2026
 
 ## Iowa State University
 
