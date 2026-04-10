@@ -20,7 +20,7 @@ author_profile: true
 
 - **Xia, X.**, Cai, Z. (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
-- Cai, Z., Li, S., **Xia, X**.*, Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). [Accepted for publication conditioned on minor revisions at Journal of Machine Learning Research.]
+- Cai, Z., Li, S., **Xia, X**.*, Zhang, L. (2023) [Private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). [Accepted at Journal of Machine Learning Research.]
 
 - **Xia, X.**, Zhang, L., Cai, Z. (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Major revision at Journal of the American Statistical Association.]
 
