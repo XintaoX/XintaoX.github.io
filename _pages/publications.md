@@ -24,7 +24,7 @@ author_profile: true
 - **Xia, X.**, Cai, Z. (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
 - **Xia, X.**, Zhang, L., Cai, Z. (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Major revision at Journal of the American Statistical Association.]
-- 
+
 - **Xia, X**, Qiu, Y. (2024) [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Major revision at Biometrics.]
 
 ## Working Papers
@@ -32,7 +32,6 @@ author_profile: true
 - Qiu, Y., Tao, J., **Xia, X**.* (2024) Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates.
 
 - **Xia, X.**, Xia, Z., Zhang, L., Cai, Z. (2026) [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
-
 
 - **Xia, X**, Li, C., Li, C. (2024) Learning a directed acyclic graph with additive heteroscedastic errors.
 
