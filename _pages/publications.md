@@ -29,7 +29,7 @@ author_profile: true
 
 ## Conferences
 
-- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia*** (2026) [Anytime-Valid Inference for Online Ranking of Large Language Models](https://). [Accepted at International Conference on Machine Learning.]
+- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026) [Anytime-Valid Inference for Online Ranking of Large Language Models](https://). [Accepted at International Conference on Machine Learning.]
 
 ## Working Papers
 
