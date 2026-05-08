@@ -29,7 +29,7 @@ author_profile: true
 
 ## Conferences
 
-- Zhanrui Cai, Sai Li, **Xintao Xia** *, Linjun Zhang (2026+) [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). [Accepted at Journal of Machine Learning Research.]
+- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia*** (2026) [Anytime-Valid Inference for Online Ranking of Large Language Models](https://). [Accepted at International Conference on Machine Learning.]
 
 ## Working Papers
 
