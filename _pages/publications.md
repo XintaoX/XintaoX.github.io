@@ -21,21 +21,21 @@ author_profile: true
 
 - **Xintao Xia**, Xiaofei Zhang, Wayne A Fuller (2024). [Estimation for nearest neighbor imputed survey data](https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smae048/7964745?utm_source=advanceaccess&utm_campaign=jssam&utm_medium=email), Journal of Survey Statistics and Methodology.
 
-- **Xintao Xia**, Zhanrui Cai (2023) [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
+- **Xintao Xia**, Zhanrui Cai (2023). [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
 
-- **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025) [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Major revision at Journal of the American Statistical Association.]
+- **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Major revision at Journal of the American Statistical Association.]
 
-- **Xintao Xia**, Yumou Qiu (2024) [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Major revision at Biometrics.]
+- **Xintao Xia**, Yumou Qiu (2024). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Major revision at Biometrics.]
 
 ## Conferences
 
-- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026) [Anytime-Valid Inference for Online Ranking of Large Language Models](https://). [Accepted at International Conference on Machine Learning.]
+- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026). [Anytime-Valid Inference for Online Ranking of Large Language Models](https://). [Accepted at International Conference on Machine Learning.]
 
 ## Working Papers
 
 - Yumou Qiu, Jing Tao, **Xintao Xia** * (2024). Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates.
 
-- **Xintao Xia**, Zhiqiu Xia, Linjun Zhang, Zhanrui Cai (2026) [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
+- **Xintao Xia**, Zhiqiu Xia, Linjun Zhang, Zhanrui Cai (2026). [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
 
-- **Xintao Xia**, Li Chen, Chunlin Li. (2024) Learning a directed acyclic graph with additive heteroscedastic errors.
+- **Xintao Xia**, Li Chen, Chunlin Li. (2024). Learning a directed acyclic graph with additive heteroscedastic errors.
 
