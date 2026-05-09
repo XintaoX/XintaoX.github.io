@@ -33,7 +33,7 @@ author_profile: true
 
 ## Working Papers
 
-- Yumou Qiu, Jing Tao, **Xintao Xia** * (2024). Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates.
+- Yumou Qiu, Jing Tao, **Xintao Xia*** (2024). Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates.
 
 - **Xintao Xia**, Zhiqiu Xia, Linjun Zhang, Zhanrui Cai (2026). [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
 
