@@ -37,5 +37,5 @@ author_profile: true
 
 - **Xintao Xia**, Zhiqiu Xia, Linjun Zhang, Zhanrui Cai (2026). [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
 
-- **Xintao Xia**, Li Chen, Yue Hu, Chunlin Li. (2024). Learning a directed acyclic graph with additive heteroscedastic errors.
+- **Xintao Xia**, Li Chen, Yue Hu, Chunlin Li. (2026). Learning a directed acyclic graph with additive heteroscedastic errors.
 
