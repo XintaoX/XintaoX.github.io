@@ -39,3 +39,6 @@ author_profile: true
 
 - **Xintao Xia**, Li Chen, Yue Hu, Chunlin Li. (2026). [Learning a directed acyclic graph with additive heteroscedastic errors](https://arxiv.org/abs/2605.26515).
 
+- Yue Hu, Haiqi Li, **Xintao Xia**† (2026). [Model checking for regressions based on weighted residual processes with diverging number of predictors](https://arxiv.org/abs/2604.14649).
+
+
