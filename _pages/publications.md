@@ -21,7 +21,7 @@ author_profile: true
 
 - **Xintao Xia**, Xiaofei Zhang, Wayne A Fuller (2024). [Estimation for nearest neighbor imputed survey data](https://academic.oup.com/jssam/advance-article-abstract/doi/10.1093/jssam/smae048/7964745?utm_source=advanceaccess&utm_campaign=jssam&utm_medium=email), Journal of Survey Statistics and Methodology.
 
-- **Xintao Xia**, Zhanrui Cai (2023). [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research.
+- **Xintao Xia**, Zhanrui Cai (2023). [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research. [[code](https://github.com/XintaoX/DP_FDR)]
 
 - **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Major revision at Journal of the American Statistical Association.]
 
