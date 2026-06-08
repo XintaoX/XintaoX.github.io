@@ -23,7 +23,7 @@ author_profile: true
 
 - **Xintao Xia**, Zhanrui Cai (2023). [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research. [[Code and Related Files](https://github.com/XintaoX/DP_FDR)]
 
-- **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Major revision at Journal of the American Statistical Association.]
+- **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Minor revision at Journal of the American Statistical Association.]
 
 - **Xintao Xia**, Yumou Qiu (2024). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Major revision at Biometrics.]
 
@@ -33,9 +33,9 @@ author_profile: true
 
 ## Working Papers
 
-- Yumou Qiu, Jing Tao, **Xintao Xia*** (2024). Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates.
+- Yumou Qiu, Jing Tao, **Xintao Xia*** (2024). Inference of heterogeneous quantile treatment effects using observational data with high-dimensional covariates. [R&R at JRSSB]
 
-- **Xintao Xia**, Zhiqiu Xia, Linjun Zhang, Zhanrui Cai (2026). [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).
+- **Xintao Xia**, Zhiqiu Xia, Linjun Zhang, Zhanrui Cai (2026). [A statistical framework for alignment with biased AI feedback](https://arxiv.org/abs/2602.08259).[R&R at JASA]
 
 - **Xintao Xia**, Li Chen, Yue Hu, Chunlin Li. (2026). [Learning a directed acyclic graph with additive heteroscedastic errors](https://arxiv.org/abs/2605.26515).
 
