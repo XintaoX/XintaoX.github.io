@@ -29,7 +29,7 @@ author_profile: true
 
 ## Conferences
 
-- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026). [Anytime-Valid Inference for Online Ranking of Large Language Models](https://). [Accepted at International Conference on Machine Learning.] [[Code](https://github.com/ranzer30/serpant_python)]
+- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026). [Anytime-Valid Inference for Online Ranking of Large Language Models](https://icml.cc/virtual/2026/poster/66048). [Accepted at International Conference on Machine Learning.] [[Code](https://github.com/ranzer30/serpant_python)]
 
 ## Working Papers
 
