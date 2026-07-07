@@ -15,7 +15,7 @@ author_profile: true
 
 ## Journals
 
-- Zhanrui Cai, Sai Li, **Xintao Xia***, Linjun Zhang (2026+). [Differentially private estimation and inference in high-dimensional regression with FDR control](https://arxiv.org/abs/2310.16260). [Accepted at Journal of Machine Learning Research.]
+- Zhanrui Cai, Sai Li, **Xintao Xia***, Linjun Zhang (2026). [Differentially private estimation and inference in high-dimensional regression with FDR control](http://jmlr.org/papers/v27/24-1413.html). [Journal of Machine Learning Research.]
 
 - **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2555059), Journal of the American Statistical Association. [Winner of the 2024 IMS Hannan Graduate Student Travel Award.]
 
