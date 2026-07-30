@@ -25,11 +25,11 @@ author_profile: true
 
 - **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Minor revision at Journal of the American Statistical Association.]
 
-- **Xintao Xia**, Yumou Qiu (2024). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Major revision at Biometrics.]
+- **Xintao Xia**, Yumou Qiu (2024). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Accepted at Biometrics.]
 
 ## Conferences
 
-- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026). [Anytime-Valid Inference for Online Ranking of Large Language Models](https://icml.cc/virtual/2026/poster/66048). International Conference on Machine Learning. [[Code](https://github.com/ranzer30/serpant_python)]
+- Runzhe Gu§, Wenguang Sun, Bowen Gang, **Xintao Xia**† (2026). [Anytime-valid inference for online ranking of large language models](https://icml.cc/virtual/2026/poster/66048). International Conference on Machine Learning. [[Code](https://github.com/ranzer30/serpant_python)]
 
 ## Working Papers
 
