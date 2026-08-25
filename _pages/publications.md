@@ -15,6 +15,8 @@ author_profile: true
 
 ## Journals
 
+- **Xintao Xia**, Yumou Qiu (2026+). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Accepted at Biometrics.]
+
 - Zhanrui Cai, Sai Li, **Xintao Xia***, Linjun Zhang (2026). [Differentially private estimation and inference in high-dimensional regression with FDR control](http://jmlr.org/papers/v27/24-1413.html). Journal of Machine Learning Research.
 
 - **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Differentially private sliced inverse regression: minimax optimality and algorithm](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2555059), Journal of the American Statistical Association. [Winner of the 2024 IMS Hannan Graduate Student Travel Award.]
@@ -24,8 +26,6 @@ author_profile: true
 - **Xintao Xia**, Zhanrui Cai (2023). [Adaptive false discovery rate control with privacy guarantee](https://jmlr.org/papers/v24/23-0039.html), Journal of Machine Learning Research. [[Code and Related Files](https://github.com/XintaoX/DP_FDR)]
 
 - **Xintao Xia**, Linjun Zhang, Zhanrui Cai (2025). [Statistical inference for differentially private stochastic gradient descent](https://arxiv.org/abs/2507.20560). [Minor revision at Journal of the American Statistical Association.]
-
-- **Xintao Xia**, Yumou Qiu (2024). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Accepted at Biometrics.]
 
 ## Conferences
 
