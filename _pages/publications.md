@@ -15,7 +15,7 @@ author_profile: true
 
 ## Journals
 
-- **Xintao Xia**, Yumou Qiu (2026+). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://arxiv.org/abs/2509.00312). [Accepted at Biometrics.]
+- **Xintao Xia**, Yumou Qiu (2026). [Multiply robust inference of average treatment effects by high-dimensional empirical likelihood](https://academic.oup.com/biometrics/article-abstract/82/3/ujag149/8788688). [Biometrics.]
 
 - Zhanrui Cai, Sai Li, **Xintao Xia***, Linjun Zhang (2026). [Differentially private estimation and inference in high-dimensional regression with FDR control](http://jmlr.org/papers/v27/24-1413.html). Journal of Machine Learning Research.
 
