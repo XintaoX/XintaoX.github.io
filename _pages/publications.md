@@ -41,4 +41,5 @@ author_profile: true
 
 - Yue Hu, Haiqi Li, **Xintao Xia**† (2026). [Model checking for regressions based on weighted residual processes with diverging number of predictors](https://arxiv.org/abs/2604.14649).
 
+- Runzhe Gu§, Zinan Zhao, Wenguang Sun, **Xintao Xia**† (2026). [Online individualized treatment selection under partial feedback: false discovery control and minimax optimality](https://arxiv.org/abs/2610.16464).
 
