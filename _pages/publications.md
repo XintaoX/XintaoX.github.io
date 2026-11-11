@@ -43,4 +43,4 @@ author_profile: true
 
 - Runzhe Gu§, Zinan Zhao, Wenguang Sun, **Xintao Xia**† (2026). [Online individualized treatment selection under partial feedback: false discovery control and minimax optimality](https://arxiv.org/abs/2610.16464).
 
-- Coming soon.
+- **Xintao Xia**, Jia Gu. (2026). [Differentially private statistical inference for rankings from pairwise comparisons](http://arxiv.org/abs/2611.13485).
