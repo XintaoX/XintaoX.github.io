@@ -45,4 +45,4 @@ author_profile: true
 
 - **Xintao Xia**, Jia Gu. (2026). [Differentially private statistical inference for rankings from pairwise comparisons](http://arxiv.org/abs/2611.13485).
 
-- Jingcheng He§, Zinan Zhao, Wenguang Sun, **Xintao Xia**† (2026). [Simultaneous Inference for Watermark Proportions in LLM-Generated Text](https://arxiv.org/abs/2611.32674).
+- Jingcheng He§, Zinan Zhao, Wenguang Sun, **Xintao Xia**† (2026). [Simultaneous inference for watermark proportions in LLM-generated text](https://arxiv.org/abs/2611.32674).
